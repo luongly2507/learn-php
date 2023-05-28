@@ -11,3 +11,4 @@ Repo to store the PHP code learned
 - Loop: While, Do-while, For, Foreach
 - Custom function: Function, Scope, Constant
 - Build-in function: Math, String, Array
+- PHP form data
