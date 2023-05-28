@@ -9,3 +9,6 @@ Repo to store the PHP code learned
 - Associative Array
 - Control Flow: If-else, switch-case
 - Loop: While, Do-while, For, Foreach
+- Function
+- Scope 
+- Constant
