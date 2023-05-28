@@ -7,3 +7,5 @@ Repo to store the PHP code learned
 - Math
 - Array
 - Associative Array
+- Control Flow: If-else, switch-case
+- Loop: While, Do-while, For, Foreach
